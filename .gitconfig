@@ -1,0 +1,9 @@
+[push]
+	default = simple
+[user]
+	email = bla@bla.com
+	name = bla
+[core]
+	editor = vim
+[color]
+	ui = true
